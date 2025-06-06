@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Football Analytics - {{ position }}</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Оценка футболистов по статистике</h1>
+        {% if position != 'Home' %}
+        <div class="nav-buttons">
+            <form action="{{ url_for('update_data') }}" method="post"> <button type="submit">Обновить данные</button>
+            </form>
+            <a href="{{ url_for('show_gk') }}" class="btn">Вратари</a>
+            <a href="{{ url_for('show_df') }}" class="btn">Защитники</a>
+            <a href="{{ url_for('show_mf') }}" class="btn">Полузащитники</a>
+            <a href="{{ url_for('show_fw') }}" class="btn">Нападающие</a>
+        </div>
+        {% endif %}
+
+        {% block content %}{% endblock %}
+    </div>
+</body>
+</html>
