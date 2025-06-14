@@ -42,79 +42,7 @@ def gettable(link):
             new_data.to_csv(file, index=False)
             i+=1
 
-#gettable("https://fbref.com/en/squads/054efa67/Bayern-Munich-Stats")
 with open("Leagues/Links.txt") as file:
     for m in file:
         gettable(m)
         time.sleep(1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''def players_links(link):
-    player_url=[]
-    headers={"User-Agent": "Mozilla/5.0"}
-    response=requests.get(link, headers=headers)
-    page=BeautifulSoup(response.text, "html.parser")
-    links=page.find('table', {'id': 'stats_standard_9'})
-    print(links)
-    get=links.find_all("a", href=True)
-    for plinks in get:
-        pplinks=plinks["href"]
-        if "/en/players" in pplinks and not "Match-Logs" in pplinks:
-            full_url=f"https://fbref.com{pplinks}"
-            if full_url not in player_url:
-                player_url.append(full_url)
-    return player_url
-
-def players_stats(link):
-    headers={"User-Agent": "Mozilla/5.0"}
-    response=requests.get(link, headers=headers)
-    page=BeautifulSoup(response.text, "html.parser")
-    stats=''
-    stats=page.find('table', {'id': 'scout_summary_GK'})
-    name=
-    position="GK"
-    if not stats:
-        stats=page.find('table', {'id': 'scout_summary_CB'})
-        position="CB"
-    if not stats:
-        stats = page.find('table', {'id': 'scout_summary_FB'})
-        position="FB"
-    if not stats:
-        stats = page.find('table', {'id': 'scout_summary_MF'})
-        position="MF"
-    if not stats:
-        stats = page.find('table', {'id': 'scout_summary_FW'})
-        position="FW"'''
-
-'''info=page.find('div', {'id': 'meta'})
-for p in info.find_all('p'):
-    if 'Position:' in p.text:
-        return p.text.replace('Position:', '').strip()[:2]
-table=f"scout_summary_{p}"'''
