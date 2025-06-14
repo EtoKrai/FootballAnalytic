@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ position }}</title>
+    <style>
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 8px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #f2f2f2; cursor: pointer; }
+        th:hover { background-color: #e6e6e6; }
+        .sort-asc::after { content: " ↑"; }
+        .sort-desc::after { content: " ↓"; }
+    </style>
+</head>
+<body>
+    <h1>{{ position }}</h1>
+    <p></p>
+    <a href="{{url_for('index')}}" class="btn">Главная</a>
+    <a href="{{ url_for('show_gk') }}" class="btn">Вратари</a>
+    <a href="{{ url_for('show_mf') }}" class="btn">Полузащитники</a>
+    <a href="{{ url_for('show_fw') }}" class="btn">Нападающие</a>
+    <p></p>
+    <table>
+        <thead>
+            <tr>
+                {% for column in players[0].keys() %}
+                <th onclick="sortTable('{{ column }}')"
+                    {% if sort == column %}
+                    class="sort-{% if ascending %}asc{% else %}desc{% endif %}"
+                    {% endif %}>
+                    {{ column }}
+                </th>
+                {% endfor %}
+            </tr>
+        </thead>
+        <tbody>
+            {% for player in players %}
+            <tr>
+                {% for value in player.values() %}
+                <td>{{ value }}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <script>
+        function sortTable(column) {
+            const url = new URL(window.location.href);
+            const currentSort = url.searchParams.get('sort');
+            const currentAsc = url.searchParams.get('ascending') === 'true';
+
+            if (currentSort === column) {
+                url.searchParams.set('ascending', !currentAsc);
+            } else {
+                url.searchParams.set('sort', column);
+                url.searchParams.set('ascending', 'false');
+            }
+
+            window.location.href = url.toString();
+        }
+    </script>
+</body>
+</html>

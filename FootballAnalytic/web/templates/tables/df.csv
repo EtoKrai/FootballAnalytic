@@ -1,0 +1,671 @@
+Team,Player,Age,Matches,Cmp%,Progressive Paces,Progressive Carries,Tackles+Interception,Blocks,Aerial Won,Fouls Commited,Dangerous Fouls,Errors,Rating
+Tottenham Hotspur,Destiny Udogie,21.0,21.5,87.2,5.6,2.5,4.5,1.9,0.6,1.3,2,1,71
+Antwerp,Ayrton Costa,25.0,13.5,80.9,5.5,1.4,5.6,1.6,2.2,2.3,10,1,69
+Union SG,Anan Khalaili,19.0,16.7,69.5,4.3,3.3,5.0,1.8,1.3,1.0,4,0,69
+Union Berlin,Diogo Leite,25.0,28.3,78.6,4.1,0.7,4.3,2.2,2.8,0.9,3,1,68
+Brighton and Hove Albion,Mats Wieffer,24.0,11.3,85.1,5.5,1.6,6.6,1.6,2.8,2.0,9,3,68
+Club Brugge,Joaquin Seys,19.0,19.4,83.9,5.1,2.8,4.5,0.9,1.0,0.5,0,0,67
+Gent,Hugo Gambor,21.0,13.6,79.0,6.2,1.5,4.6,1.1,1.2,1.0,3,0,67
+Lille,Thomas Meunier,32.0,21.5,80.4,6.3,3.0,4.0,1.0,1.5,1.3,8,0,67
+Heidenheim,Patrick Mainka,29.0,34.0,85.4,3.0,0.6,3.7,1.8,3.2,0.5,3,0,66
+Barcelona,Eric García,23.0,17.5,92.1,6.2,1.0,3.0,1.4,1.5,1.1,4,0,66
+Bournemouth,Marcos Senesi,27.0,12.3,76.3,5.0,1.0,4.3,1.3,2.6,1.8,5,0,66
+Dortmund,Ramy Bensebaini,29.0,22.5,86.1,5.7,1.2,3.7,1.9,1.8,1.2,6,1,66
+Stuttgart,Maximilian Mittelstädt,27.0,27.5,83.4,6.6,2.3,4.6,1.7,0.9,0.9,5,2,66
+Cagliari,Adam Obert,21.0,12.0,76.9,4.2,1.0,4.5,1.6,2.1,1.8,4,2,66
+Lens,Ruben Aguilar,31.0,12.6,80.3,5.9,2.5,3.7,2.0,0.8,1.1,4,0,66
+Lyon,Nicolás Tagliafico,31.0,21.2,86.6,4.6,1.5,4.4,1.2,1.2,1.9,7,0,66
+Beerschot Wilrijk,Tolis Konstantopoulos,21.0,24.0,82.1,4.0,0.8,4.2,1.8,1.4,1.1,10,0,65
+Monaco,Christian Mawissa,19.0,16.7,87.5,2.6,0.8,4.1,1.5,1.9,1.1,6,1,65
+Manchester United,Noussair Mazraoui,26.0,31.7,85.7,3.6,1.3,4.7,1.1,1.6,1.2,6,1,65
+Arsenal,Riccardo Calafiori,22.0,11.0,85.6,4.9,2.0,3.3,1.1,2.0,1.5,4,0,65
+Bayern Munich,Dayot Upamecano,25.0,19.6,93.9,7.0,0.9,3.6,0.9,3.0,1.0,6,1,65
+Bayern Munich,Konrad Laimer,27.0,18.9,87.8,7.5,4.6,3.0,1.3,0.8,1.9,8,1,65
+Sint Truiden,Louis Patris,23.0,18.7,64.4,3.9,1.8,5.5,1.7,1.9,1.3,10,1,64
+Westerlo,Jordan Bos,21.0,11.5,73.5,2.9,3.9,3.1,1.9,1.7,0.6,2,0,64
+Dortmund,Waldemar Anton,28.0,21.7,90.4,5.4,1.5,2.9,1.5,2.1,0.9,4,1,64
+Atalanta,Matteo Ruggeri,22.0,19.5,84.2,5.8,3.1,3.1,1.5,1.2,0.6,2,1,64
+Antwerp,Jelle Bataille,25.0,16.6,79.4,5.0,2.5,4.5,1.5,0.9,0.7,2,2,64
+Cagliari,José Luis Palomino,34.0,12.0,86.7,2.9,0.3,4.1,1.8,1.3,0.9,6,0,64
+Paris Saint Germain,Willian Pacho,22.0,23.7,94.8,2.2,0.1,4.1,1.5,1.2,0.8,2,1,64
+Paris Saint Germain,Marquinhos,30.0,19.2,94.9,7.9,1.5,2.1,1.4,1.7,0.9,6,0,64
+Fulham,Kenny Tete,28.0,19.8,80.8,3.2,1.7,4.4,1.6,1.2,1.8,5,0,64
+Napoli,Alessandro Buongiorno,25.0,21.4,90.8,3.8,1.3,3.5,1.4,2.0,0.8,2,2,64
+Westerlo,Tuur Rommens,21.0,26.6,72.6,7.2,3.0,3.8,1.6,2.7,0.8,8,2,64
+Lens,Kevin Danso,25.0,12.0,85.6,4.3,0.8,3.2,2.1,3.4,2.2,6,1,63
+Fulham,Antonee Robinson,26.0,35.2,76.8,3.7,3.4,4.5,1.2,1.4,0.9,8,2,63
+Nice,Ali Abdi,30.0,15.6,74.0,2.7,2.2,4.0,1.3,1.4,1.7,2,0,63
+Freiburg,Lukas Kübler,31.0,20.6,77.1,3.8,1.2,4.5,1.6,2.0,1.2,5,3,63
+Fiorentina,Pablo Marí,30.0,12.2,91.3,2.2,0.2,3.2,1.6,2.5,1.1,2,0,63
+Bologna,Emil Holm,24.0,12.7,76.2,3.9,2.3,3.5,1.5,2.4,1.3,3,1,63
+Internazionale,Francesco Acerbi,36.0,19.0,92.5,3.3,1.0,2.6,1.2,3.2,0.6,0,0,63
+Cercle Brugge,Flávio Nazinho,21.0,13.1,60.5,5.5,2.1,4.4,1.8,1.5,1.5,6,2,63
+Atalanta,Sead Kolašinac,31.0,21.2,87.5,6.7,2.5,3.1,0.8,1.6,1.8,7,1,63
+Juventus,Renato Veiga,21.0,12.2,88.0,3.3,0.7,3.0,1.4,2.2,0.7,2,0,63
+Milan,Strahinja Pavlović,23.0,20.7,88.2,4.5,1.9,3.3,0.8,2.2,1.0,8,0,62
+Mechelen,Toon Raemaekers,23.0,24.8,83.8,4.0,0.5,3.9,1.5,2.3,1.5,9,0,62
+Werder Bremen,Amos Pieper,26.0,16.7,84.8,3.7,0.7,3.4,1.7,2.4,0.7,3,1,62
+Rennes,Lilian Brassier,24.0,13.7,85.6,5.5,1.5,2.7,1.2,2.2,0.7,4,1,62
+Girona,Alejandro Francés,21.0,13.1,84.3,4.8,1.4,4.0,1.3,0.5,1.5,2,0,62
+Union SG,Kevin Mac Allister,26.0,22.6,80.2,5.2,0.4,5.3,1.6,2.6,1.9,17,0,62
+Napoli,Mathías Olivera,26.0,26.4,85.4,4.8,1.7,3.4,1.4,1.6,1.1,4,1,62
+Standard Liege,Bosko Sutalo,24.0,18.2,79.8,2.9,0.8,5.3,1.2,1.6,1.5,6,1,62
+Auxerre,Gideon Mensah,26.0,25.4,79.9,3.7,2.0,4.6,1.1,0.6,1.3,5,0,62
+Real Sociedad,Jon Aramburu,22.0,27.4,78.4,3.5,0.9,4.8,1.5,1.5,1.8,11,0,62
+Como,Ignace Van Der Brempt,22.0,14.0,81.1,3.0,1.4,4.1,1.0,1.3,1.5,3,0,62
+RB Leipzig,Castello Lukeba,21.0,17.6,85.1,4.5,1.0,2.7,1.6,1.5,0.7,2,0,61
+Internazionale,Benjamin Pavard,28.0,17.6,91.3,5.2,0.7,2.6,0.9,2.3,1.0,4,0,61
+Milan,Emerson,25.0,15.4,86.2,4.4,1.5,3.8,0.8,1.6,2.2,5,0,61
+Reims,Emmanuel Agbadou,27.0,14.0,87.9,5.5,0.7,3.1,1.6,1.3,0.9,3,1,61
+Monchengladbach,Nico Elvedi,27.0,23.7,92.0,2.3,0.8,2.9,1.5,1.9,0.4,1,0,61
+Celta Vigo,Carlos Dominguez,23.0,13.1,88.5,5.0,1.1,2.7,1.2,2.1,0.6,1,1,61
+Wolverhampton Wanderers,Santiago Bueno,25.0,18.8,88.0,1.5,0.1,3.0,1.9,1.9,1.4,2,0,61
+Tottenham Hotspur,Cristian Romero,26.0,15.8,89.5,4.5,0.8,3.5,1.1,2.6,0.9,3,2,61
+Real Madrid,Aurélien Tchouaméni,24.0,29.9,92.3,5.2,0.6,3.1,1.1,2.5,0.9,8,1,61
+Crystal Palace,Daniel Muñoz,28.0,35.9,75.7,2.7,1.7,4.7,1.1,1.6,1.6,10,1,61
+Brest,Julien Le Cardinal,26.0,15.3,86.4,2.5,0.5,3.9,1.2,1.9,0.8,6,0,61
+Newcastle United,Kieran Trippier,33.0,14.7,82.5,8.0,1.8,3.4,0.7,1.5,1.1,1,0,61
+Manchester United,Leny Yoro,18.0,13.0,92.4,4.0,1.5,3.6,0.4,1.2,0.7,5,0,60
+Beerschot Wilrijk,Colin Dagba,25.0,15.3,81.8,2.7,1.0,4.5,1.4,0.2,0.7,7,0,60
+Napoli,Juan Jesus,33.0,12.0,89.6,4.2,0.2,2.8,1.2,2.0,1.2,2,0,60
+Gent,Matisse Samoise,22.0,13.9,75.9,4.7,2.9,5.3,1.4,0.7,3.3,9,2,60
+Union SG,Fedde Leysen,21.0,17.4,83.3,6.6,0.7,3.4,0.9,2.2,1.0,4,1,60
+Las Palmas,Álex Muñoz,30.0,15.8,79.7,2.8,0.9,3.5,1.8,1.5,1.9,6,0,60
+Strasbourg,Guela Doué,21.0,30.2,83.4,5.7,1.7,3.3,1.3,1.9,1.4,10,1,60
+Monaco,Mohammed Salisu,25.0,11.4,85.4,6.0,0.7,3.9,0.9,3.1,0.8,2,2,60
+West Ham United,Aaron Wan-Bissaka,26.0,35.1,81.1,4.2,3.1,3.9,1.1,0.6,0.7,1,0,60
+Rennes,Christopher Wooh,22.0,16.2,87.1,3.6,0.9,3.6,1.4,2.6,2.0,14,0,60
+Rennes,Hans Hateboer,30.0,18.8,85.3,4.9,1.5,3.2,1.0,2.2,1.1,3,2,60
+Augsburg,Chrislain Matsima,22.0,28.4,86.0,3.0,0.5,2.9,1.7,2.4,0.4,7,0,60
+RB Leipzig,El Chadaille Bitshiabu,19.0,12.6,84.4,5.5,0.3,3.2,2.0,1.7,0.6,7,2,60
+Bayer Leverkusen,Piero Hincapié,22.0,29.7,87.9,5.1,1.8,2.8,1.3,2.2,0.9,8,1,60
+Stuttgart,Ramon Hendriks,23.0,12.8,83.7,2.8,0.6,3.0,1.2,2.3,0.9,3,0,60
+Eintracht Frankfurt,Rasmus Kristensen,27.0,28.0,77.7,6.1,1.8,2.8,1.8,1.6,0.9,4,1,60
+Genk,Joris Kayembe,29.0,27.2,85.7,5.7,2.5,3.4,1.0,1.1,0.9,2,1,60
+Gent,Archie Brown,22.0,25.5,72.5,4.7,4.4,2.5,1.4,2.0,1.1,6,2,60
+Las Palmas,Viti,26.0,22.1,81.0,2.0,1.9,4.4,1.3,0.8,1.3,5,0,60
+Bologna,Sam Beukema,25.0,33.5,86.4,4.6,0.8,2.5,1.1,2.8,0.8,4,0,60
+Real Betis,Marc Bartra,33.0,23.4,81.3,2.9,0.3,2.8,1.8,2.1,0.6,5,0,59
+Monaco,Vanderson,23.0,23.1,77.7,4.4,2.5,5.0,1.9,1.0,1.2,14,2,59
+Fulham,Timothy Castagne,28.0,18.3,81.8,3.4,0.9,3.7,0.8,1.9,0.8,4,0,59
+OH Leuven,Óscar Gil,27.0,11.2,79.8,2.9,1.8,3.9,1.9,1.1,1.5,9,0,59
+Paris Saint Germain,Achraf Hakimi,25.0,23.0,88.7,8.0,4.0,3.4,1.1,0.4,0.8,4,3,59
+Genk,Zakaria El Ouahdi,22.0,25.7,81.7,4.5,1.8,3.3,1.8,0.7,0.9,5,0,59
+Club Brugge,Brandon Mechele,31.0,30.0,91.1,5.3,0.8,2.9,1.5,3.1,0.5,5,2,59
+Stuttgart,Anthony Rouault,23.0,13.5,90.0,3.9,0.4,2.5,1.3,2.4,1.3,1,1,59
+Saint Etienne,Dennis Appiah,32.0,23.7,76.6,4.6,2.2,4.2,1.5,1.1,1.6,8,2,59
+Charleroi,Aiham Ousou,24.0,22.5,86.7,2.8,0.6,3.3,1.1,2.3,1.3,6,0,59
+Mechelen,Daam Foulon,25.0,17.7,77.5,4.4,2.5,3.1,0.7,1.8,0.7,3,0,59
+Cercle Brugge,Emmanuel Kakou,19.0,14.1,63.9,4.7,0.4,3.8,1.6,2.9,1.4,10,0,59
+Dender,Bryan Goncalves,28.0,11.5,70.9,6.4,0.5,4.1,1.6,1.0,1.0,6,1,59
+Lyon,Abner,24.0,12.2,84.1,5.4,2.5,2.8,1.2,0.6,1.3,1,0,58
+OH Leuven,Federico Ricca,29.0,21.2,84.2,4.0,0.6,2.5,1.6,2.2,1.2,13,0,58
+Internazionale,Carlos Augusto,25.0,18.8,88.3,4.3,1.6,2.0,1.1,3.0,0.5,1,0,58
+Internazionale,Stefan de Vrij,32.0,19.2,93.3,4.0,0.6,2.1,1.0,3.4,0.5,2,0,58
+OH Leuven,Takahiro Akimoto,26.0,22.6,80.6,2.6,1.0,3.9,1.2,1.5,0.8,6,0,58
+Atalanta,Berat Djimsiti,31.0,29.4,87.7,3.7,1.1,3.2,1.2,3.1,0.8,9,2,58
+Nice,Dante,40.0,21.9,88.5,4.4,0.8,3.0,1.3,1.9,0.9,10,1,58
+Real Madrid,Fran Garcia,24.0,24.2,86.7,4.9,3.2,3.3,1.1,0.7,0.5,0,1,58
+Parma,Antoine Hainaut,22.0,13.5,75.0,2.5,1.6,3.0,1.3,2.4,1.0,4,1,58
+Gent,Jordan Torunarigha,26.0,20.6,83.9,5.0,1.0,3.3,1.5,2.6,0.8,16,0,58
+Athletic Club,Yeray Álvarez,29.0,19.8,84.1,5.3,1.0,3.0,0.5,2.5,0.8,4,1,58
+Bayern Munich,Eric Dier,30.0,16.3,93.8,4.5,0.7,2.4,1.2,3.2,1.0,1,1,58
+Monaco,Wilfried Singo,23.0,23.3,86.2,5.1,1.5,3.4,0.7,2.2,1.5,4,2,58
+Dender,Kobe Cools,27.0,29.3,80.2,2.0,0.1,3.2,2.0,3.3,1.0,7,1,58
+Hellas Verona,Diego Coppola,20.0,32.5,81.1,1.5,0.1,4.2,1.4,4.1,1.4,10,2,58
+Empoli,Mattia Viti,22.0,28.6,80.2,3.0,0.6,4.0,1.4,2.1,1.0,3,4,58
+Alaves,Santiago Mouriño,22.0,20.6,78.0,2.2,0.7,3.5,1.3,1.8,1.6,7,0,58
+Hoffenheim,Kevin Akpoguma,29.0,24.7,87.1,4.0,0.6,3.4,2.6,1.9,1.0,15,1,58
+Le Havre,Timothee Pembele,21.0,12.4,81.5,3.5,2.2,3.3,1.3,0.8,0.7,3,0,58
+Mainz 05,Moritz Jenz,25.0,17.8,84.3,2.6,0.1,3.7,1.3,4.1,1.5,4,2,58
+Eintracht Frankfurt,Nathaniel Brown,21.0,21.7,80.7,2.9,2.1,4.0,1.4,0.2,0.7,2,1,58
+Eintracht Frankfurt,Tuta,25.0,25.3,87.7,3.1,0.4,3.3,1.7,1.8,1.2,8,1,58
+Bayern Munich,Alphonso Davies,23.0,17.4,89.7,6.9,4.7,2.5,0.8,0.5,0.5,0,2,58
+Genoa,Johan Vásquez,25.0,33.8,84.7,2.8,1.1,3.1,1.7,2.8,0.9,12,1,58
+Fiorentina,Fabiano Parisi,23.0,12.6,80.5,3.2,2.0,3.5,1.1,1.0,1.3,3,0,58
+Manchester United,Lisandro Martínez,26.0,19.5,89.4,6.0,1.2,3.7,1.1,0.8,1.1,7,1,58
+Nottingham Forest,Neco Williams,23.0,28.9,75.5,3.1,2.4,4.2,1.5,1.4,0.8,7,3,58
+Tottenham Hotspur,Ben Davies,31.0,14.8,87.5,3.5,0.9,2.0,1.9,3.5,1.1,5,1,57
+Barcelona,Gerard Martín,22.0,11.6,83.1,3.4,0.9,3.0,1.4,1.2,1.2,2,0,57
+Paris Saint Germain,Nuno Mendes,22.0,18.7,86.9,6.8,3.1,2.6,1.3,0.8,0.7,6,2,57
+Venezia,Michael Svoboda,25.0,14.6,84.8,2.9,0.9,3.3,1.3,2.4,0.5,1,2,57
+Cercle Brugge,Ibrahim Diakité,20.0,18.3,71.1,3.7,1.2,2.6,2.0,2.3,1.2,7,1,57
+Cercle Brugge,Gary Magnée,24.0,19.4,57.3,4.0,2.1,3.2,2.0,0.9,0.6,5,0,57
+Cercle Brugge,Christiaan Ravych,22.0,26.7,71.2,3.5,0.5,3.6,1.5,2.4,0.7,7,1,57
+Monza,Armando Izzo,32.0,27.1,87.9,2.7,0.4,3.1,1.4,1.9,2.4,12,0,57
+Mainz 05,Dominik Kohr,30.0,25.6,81.1,3.9,1.0,4.1,1.7,1.5,1.8,22,0,57
+Union Berlin,Tom Rothe,19.0,18.6,68.1,2.7,1.3,3.4,2.2,2.3,1.3,9,1,57
+Werder Bremen,Marco Friedl,26.0,24.0,90.2,2.9,0.2,4.0,1.7,1.9,1.1,23,1,57
+Sint Truiden,Bruno Godeau,32.0,27.4,87.3,3.7,0.5,2.9,1.4,2.6,0.7,6,2,57
+Nantes,Nathan Zeze,19.0,16.8,85.8,2.7,0.1,3.6,1.3,1.7,1.0,6,1,57
+Monaco,Thilo Kehrer,27.0,26.5,89.9,5.2,0.6,2.8,0.7,2.0,0.9,1,1,57
+Union SG,Alessio Castro-Montes,27.0,11.5,72.9,3.7,3.0,3.0,1.6,0.7,0.7,5,0,57
+Hellas Verona,Giangiacomo Magnani,28.0,11.8,80.7,2.6,0.3,3.1,1.4,2.5,0.7,2,1,57
+Milan,Alejandro Jiménez,19.0,14.2,80.1,2.6,3.9,2.7,1.7,0.6,0.8,6,0,57
+Fiorentina,Robin Gosens,30.0,28.1,76.5,3.6,1.1,2.6,1.2,2.5,0.9,6,0,57
+Manchester United,Harry Maguire,31.0,19.6,85.5,2.6,0.4,3.6,0.8,3.3,0.9,7,1,57
+Brighton and Hove Albion,Pervis Estupiñán,26.0,26.7,83.1,4.9,2.2,3.8,0.7,1.7,1.3,5,2,57
+Torino,Guillermo Maripán,30.0,26.0,86.3,3.7,0.5,3.1,1.0,2.8,1.1,9,1,57
+Bochum,Gerrit Holtmann,29.0,12.7,65.7,2.6,3.9,3.1,1.4,0.9,2.0,2,0,57
+Werder Bremen,Anthony Jung,32.0,21.1,89.6,5.7,0.9,2.8,1.1,1.6,0.4,7,1,57
+Union SG,Ousseynou Niang,22.0,11.9,76.3,3.5,3.2,3.3,2.7,0.4,1.8,5,1,57
+Empoli,Luca Marianucci,20.0,11.9,76.8,2.4,1.0,3.9,1.3,2.4,0.9,5,1,57
+Getafe,Iglesias,26.0,32.1,57.1,2.6,1.0,4.1,1.5,1.1,1.4,4,1,57
+Athletic Club,Andoni Gorosabel,27.0,16.6,83.3,3.1,1.0,3.9,1.1,1.2,1.4,5,0,57
+Barcelona,Iñigo Martínez,33.0,27.7,91.0,9.4,2.5,1.6,0.6,2.1,0.6,5,1,56
+Lens,Jonathan Gradit,31.0,23.5,85.1,5.4,0.8,2.9,1.1,2.7,1.2,4,2,56
+Lens,Przemysław Frankowski,29.0,15.4,80.1,7.6,2.1,3.3,0.6,0.5,1.2,3,0,56
+Tottenham Hotspur,Djed Spence,23.0,19.9,85.4,5.3,3.0,3.4,1.4,1.1,1.1,12,2,56
+Leicester City,Victor Bernth Kristiansen,21.0,27.7,77.4,2.5,1.4,4.7,1.4,0.8,0.7,4,3,56
+Leicester City,Luke Thomas,23.0,12.4,78.4,3.0,0.4,4.2,1.2,1.0,1.3,6,1,56
+Athletic Club,Daniel Vivian,25.0,29.0,87.1,6.4,1.2,3.0,0.9,1.5,0.9,6,2,56
+Leicester City,Caleb Okoli,23.0,12.5,86.3,2.6,0.2,3.2,1.9,1.8,1.3,4,3,56
+Dortmund,Nico Schlotterbeck,24.0,22.0,89.2,8.9,1.7,2.7,1.4,2.4,0.8,23,1,56
+Beerschot Wilrijk,Brian Plat,24.0,23.3,80.0,2.4,0.9,3.9,1.4,1.9,1.0,10,1,56
+Torino,Borna Sosa,26.0,13.2,79.6,3.9,1.0,3.0,1.0,1.2,0.9,3,0,56
+Torino,Sebastian Walukiewicz,24.0,18.5,81.1,4.3,1.4,3.0,1.1,1.2,1.6,6,0,56
+Westerlo,Roman Neustädter,36.0,16.0,87.4,3.1,0.2,3.1,0.9,1.4,0.5,2,0,56
+Manchester City,Joško Gvardiol,22.0,36.4,90.2,7.3,2.5,2.8,1.2,1.5,0.4,2,8,56
+Arsenal,Ben White,26.0,13.3,83.8,4.4,1.7,2.7,0.8,1.4,0.8,2,0,56
+Union SG,Ross Sykes,25.0,11.3,76.6,2.7,0.6,3.7,0.8,4.4,1.2,4,1,56
+Brighton and Hove Albion,Joël Veltman,32.0,18.9,80.2,4.5,1.7,3.3,1.2,1.1,1.4,8,0,56
+Montpellier,Becir Omeragic,22.0,20.0,92.1,2.6,1.0,2.2,1.6,1.0,0.6,1,0,56
+Real Betis,Ricardo Rodríguez,31.0,14.2,82.0,4.4,1.3,2.5,0.7,1.9,0.8,0,0,56
+Le Havre,Gautier Lloris,29.0,30.8,87.2,3.2,0.4,3.3,1.1,2.1,1.0,11,0,56
+Montpellier,Issiaga Sylla,30.0,12.9,77.3,4.1,2.6,2.7,1.0,1.7,1.0,2,1,56
+Girona,Daley Blind,34.0,30.9,88.8,8.8,2.3,2.6,1.0,0.6,0.6,2,2,56
+Venezia,Alessio Zerbin,25.0,16.9,65.4,3.2,3.1,3.9,1.7,0.6,2.1,4,1,56
+Genk,Matte Smets,20.0,27.6,92.8,4.0,0.4,3.4,1.5,1.4,0.5,9,2,56
+Bayern Munich,Kim Min-jae,27.0,25.4,92.5,7.1,0.6,2.8,0.9,3.2,1.0,2,4,56
+Gent,Stefan Mitrović,34.0,13.9,90.0,4.0,0.6,2.4,1.4,2.4,0.8,7,1,56
+Manchester United,Matthijs de Ligt,24.0,23.7,89.9,2.3,0.3,2.7,1.2,2.4,0.7,9,0,56
+Villarreal,Juan Foyth,26.0,16.9,87.0,3.8,0.8,2.6,1.5,2.4,0.9,4,3,56
+Montpellier,Enzo Tchato,21.0,21.2,75.0,2.9,2.1,3.3,1.4,0.9,1.0,3,0,56
+Saint Etienne,Yunis Abdelhamid,36.0,11.5,86.7,1.9,0.3,2.7,2.3,1.7,1.4,2,1,56
+West Ham United,Emerson Palmieri,29.0,23.7,79.9,2.8,2.0,3.4,1.4,0.8,1.1,5,0,56
+Las Palmas,Marvin,24.0,11.6,73.7,2.6,2.5,3.4,1.5,0.9,1.7,7,0,55
+Marseille,Geoffrey Kondogbia,31.0,22.5,92.5,4.7,0.9,3.6,1.0,1.2,0.8,1,4,55
+Atalanta,Odilon Kossounou,23.0,12.5,88.2,3.7,1.0,2.3,1.3,1.8,1.2,1,1,55
+Lazio,Luca Pellegrini,25.0,11.9,75.5,6.1,1.8,3.5,0.8,0.7,1.5,5,0,55
+Leganes,Valentin Rosier,27.0,28.8,79.3,2.6,1.4,4.3,1.4,0.9,1.5,8,2,55
+Rennes,Lorenz Assignon,24.0,26.3,78.0,4.4,3.7,2.8,0.8,1.4,2.0,12,0,55
+Sevilla,Kike Salas,22.0,24.9,78.5,2.4,0.3,3.2,1.0,3.1,0.8,6,0,55
+Rennes,Leo Skiri Østigård,24.0,13.7,84.8,3.6,0.2,2.6,0.9,3.4,1.3,4,1,55
+Leicester City,Jannik Vestergaard,31.0,15.5,90.7,2.1,0.2,2.5,1.4,1.7,0.8,5,1,55
+Dender,Gilles Ruyssen,30.0,27.6,80.3,3.1,0.3,3.5,1.2,1.8,1.0,8,1,55
+Sint Truiden,Rein Van Helden,22.0,26.0,83.2,3.4,1.0,3.6,1.7,2.2,1.4,27,0,55
+Kortrijk,Haruya Fujii,23.0,17.2,80.9,4.6,0.6,2.4,1.3,2.5,0.5,0,0,55
+Real Sociedad,Nayef Aguerd,28.0,19.6,87.3,3.8,1.3,2.2,1.1,3.1,0.6,8,0,55
+Crystal Palace,Chris Richards,24.0,21.4,79.8,1.8,0.3,3.1,1.9,2.2,0.5,12,0,55
+Wolverhampton Wanderers,Emmanuel Agbadou,27.0,15.7,85.4,2.0,0.4,2.7,1.2,1.7,0.4,3,0,55
+West Ham United,Vladimír Coufal,31.0,11.9,78.6,3.3,2.2,2.5,1.1,1.9,1.8,5,1,55
+Mainz 05,Stefan Bell,32.0,16.0,78.6,2.4,0.5,3.1,1.0,5.2,1.5,4,1,55
+Barcelona,Jules Koundé,25.0,29.0,86.7,5.7,1.5,2.9,1.2,1.0,0.8,4,2,55
+Dortmund,Emre Can,30.0,23.4,89.5,5.0,0.9,3.0,1.3,1.9,1.1,9,3,55
+Kortrijk,João Silva,25.0,20.8,81.0,2.9,0.1,3.0,2.0,2.2,0.6,13,2,55
+Lecce,Patrick Dorgu,19.0,20.5,77.5,2.6,3.3,3.1,1.2,1.5,1.2,7,2,55
+Cagliari,Yerry Mina,29.0,28.6,85.9,2.7,0.6,3.6,2.1,3.3,1.4,14,3,55
+Hoffenheim,Arthur Chaves,23.0,24.3,82.1,2.3,0.4,3.6,1.9,2.8,1.6,8,3,55
+Wolfsburg,Konstantinos Koulierakis,20.0,27.5,83.0,3.8,0.7,2.7,1.2,2.1,0.9,4,2,55
+Charleroi,Jérémy Pétris,26.0,25.5,67.3,3.6,3.4,3.5,0.5,1.4,1.3,9,0,55
+Standard Liege,Marlon Fossey,25.0,28.1,75.5,3.4,1.9,2.6,0.7,2.2,0.3,2,0,55
+Standard Liege,Ibe Hautekiet,22.0,24.0,84.3,1.9,0.2,3.8,0.9,2.7,1.0,6,1,55
+Saint Etienne,Léo Pétrot,27.0,29.3,80.4,3.2,1.0,3.5,1.7,1.4,0.8,13,1,55
+Bournemouth,Dean Huijsen,19.0,27.0,83.4,4.9,1.5,3.2,1.5,2.5,1.1,10,4,55
+Bochum,Bernardo,29.0,19.8,73.7,5.1,0.7,3.6,1.9,4.5,1.2,5,4,55
+Heidenheim,Tim Siersleben,24.0,13.2,80.8,2.3,0.6,3.1,1.4,1.5,1.2,7,0,55
+Union SG,Koki Machida,26.0,21.0,80.9,5.9,0.9,2.8,1.0,2.7,1.0,11,0,55
+Como,Álex Valle,20.0,11.5,85.0,3.8,1.7,3.0,1.1,0.5,1.2,2,0,55
+Real Betis,Youssouf Sabaly,31.0,17.7,86.7,3.5,1.4,3.0,1.2,0.5,1.0,1,0,55
+Auxerre,Clément Akpa,22.0,27.7,82.5,2.7,1.0,3.5,1.4,1.4,0.5,10,2,55
+Hellas Verona,Nicolás Valentini,23.0,12.6,67.5,3.3,0.3,4.0,1.2,4.0,1.7,16,0,55
+Anderlecht,Killian Sardella,22.0,21.9,77.1,4.7,2.7,2.5,1.1,1.0,0.5,6,0,55
+Newcastle United,Lewis Hall,19.0,24.4,81.7,5.0,1.7,3.1,1.4,1.2,0.4,3,3,55
+Monaco,Caio Henrique Oliveira Silva,27.0,21.5,74.1,4.7,2.7,2.7,1.2,0.6,0.7,3,0,54
+Paris Saint Germain,Lucas Beraldo,20.0,22.4,94.4,5.8,0.4,2.6,0.7,2.0,1.0,9,3,54
+Lyon,Ainsley Maitland-Niles,26.0,22.1,85.0,4.6,1.5,4.3,1.3,0.7,0.7,1,6,54
+Juventus,Timothy Weah,24.0,18.3,83.7,3.1,2.5,2.7,1.4,1.0,1.1,4,2,54
+Leicester City,James Justin,26.0,32.5,78.2,2.8,1.2,3.2,1.5,2.1,0.9,6,3,54
+Mechelen,José Marsà,22.0,25.3,80.9,4.3,1.5,2.5,1.7,1.2,1.3,4,2,54
+Atletico Madrid,Marcos Llorente,29.0,28.0,85.5,4.0,2.9,3.4,1.1,0.5,0.8,5,1,54
+Hellas Verona,Daniele Ghilardi,21.0,22.6,78.4,2.5,0.7,3.3,1.3,1.8,1.5,12,0,54
+Hellas Verona,Flavius Daniliuc,23.0,11.2,83.5,3.4,0.7,2.9,0.9,1.6,1.1,0,0,54
+Torino,Adam Masina,30.0,21.4,84.1,3.4,0.7,2.8,1.3,3.1,1.1,5,2,54
+Westerlo,Emin Bayram,21.0,16.7,83.5,5.9,0.8,3.6,1.5,2.3,0.8,33,1,54
+Milan,Fikayo Tomori,26.0,17.7,92.4,3.6,0.5,3.4,1.0,1.6,0.6,12,2,54
+Toulouse,Waren Kamanzi,23.0,11.4,83.0,2.9,2.5,3.3,0.6,0.6,1.4,3,0,54
+Crystal Palace,Trevoh Chalobah,25.0,11.8,79.0,2.9,0.9,3.3,1.6,1.9,0.8,1,3,54
+Internazionale,Alessandro Bastoni,25.0,26.9,88.4,6.0,2.3,2.5,0.9,1.6,1.6,14,1,54
+Real Betis,Diego Llorente,30.0,28.0,86.7,2.9,0.2,2.8,1.0,2.8,0.7,7,1,54
+Celta Vigo,Javi Rodríguez,21.0,28.0,86.7,4.1,1.0,3.1,1.0,1.4,1.3,7,2,54
+Toulouse,Gabriel Suazo,26.0,24.1,79.6,4.5,1.7,3.9,1.1,0.5,1.3,0,1,54
+Celta Vigo,Carl Starfelt,29.0,25.2,93.7,2.6,0.4,2.8,1.2,2.4,0.8,5,3,54
+Lecce,Kialonda,26.0,23.8,86.5,1.4,0.2,2.8,1.8,3.8,0.4,6,1,54
+Heidenheim,Benedikt Gimber,27.0,29.7,82.5,1.5,0.2,3.5,1.8,2.2,2.1,15,1,54
+Arsenal,Jurriën Timber,23.0,27.0,85.6,5.4,2.1,3.0,0.7,0.8,1.1,7,1,54
+Monchengladbach,Marvin Friedrich,28.0,11.0,88.4,3.3,1.0,1.8,1.5,3.1,0.5,0,0,54
+Auxerre,Paul Joly,24.0,11.3,68.7,4.5,2.5,6.5,1.7,1.2,0.9,11,5,54
+Werder Bremen,Felix Agu,24.0,19.6,79.7,2.2,1.7,2.6,1.4,1.1,0.6,1,0,54
+Holstein Kiel,Finn Porath,27.0,22.0,66.9,2.6,1.9,3.0,1.2,1.2,1.4,3,0,54
+Genk,Mujaid Sadick,24.0,26.7,94.1,5.3,0.7,2.9,1.4,0.9,0.9,13,1,54
+Genoa,Stefano Sabelli,31.0,23.0,68.5,3.8,1.6,3.5,1.2,0.7,1.1,3,0,54
+Holstein Kiel,Marko Ivezić,22.0,18.4,86.0,2.2,0.2,3.0,1.4,1.8,1.5,5,2,54
+Valencia,José Luis Gayà,29.0,20.1,77.8,2.9,1.4,4.1,0.8,0.5,1.4,7,0,54
+Wolfsburg,Kilian Fischer,23.0,25.7,78.6,4.3,2.0,3.2,1.6,0.8,1.3,7,2,54
+Hoffenheim,Valentin Gendrey,24.0,15.8,69.9,3.1,1.5,2.8,1.2,1.6,0.8,1,0,54
+Real Sociedad,Aihen Muñoz,26.0,12.3,71.0,3.1,2.1,3.1,0.9,1.9,1.2,8,0,54
+Leganes,Jorge Sáenz,27.0,18.8,83.7,1.9,0.3,3.3,1.4,2.2,1.6,12,0,54
+Dender,Fabio Ferraro,21.0,26.8,71.6,3.4,2.9,3.7,1.5,0.7,0.4,1,1,54
+Monza,Pablo Marí,30.0,18.1,89.7,3.2,0.3,3.5,1.3,2.2,1.5,15,2,53
+Monza,Danilo D'Ambrosio,35.0,12.2,86.8,2.8,0.8,3.5,1.0,1.3,1.5,7,2,53
+Stuttgart,Julian Chabot,26.0,25.3,89.9,4.3,0.3,3.0,1.1,3.1,1.4,19,0,53
+St Pauli,David Nemeth,23.0,23.8,86.4,2.7,0.6,2.6,1.2,1.6,0.9,3,2,53
+Union SG,Christian Burgess,32.0,21.0,83.9,3.1,0.2,2.8,1.2,3.1,1.1,8,1,53
+Monchengladbach,Ko Itakura,27.0,31.0,89.0,2.2,0.7,2.2,1.3,2.1,0.9,8,0,53
+Augsburg,Jeffrey Gouweleeuw,33.0,32.7,82.6,4.3,0.7,2.6,1.0,1.9,0.7,12,0,53
+Le Havre,Arouna Sangante,22.0,13.9,87.1,3.5,0.8,3.3,0.8,2.4,1.6,9,3,53
+Rennes,Adrien Truffert,22.0,30.6,78.9,3.4,2.3,2.9,1.4,0.9,0.8,3,1,53
+Reims,Mory Gbane,23.0,12.5,85.3,2.8,0.2,3.0,1.0,1.2,1.0,2,1,53
+Ipswich Town,Jacob Greaves,23.0,24.5,85.8,2.8,0.4,2.5,1.7,3.4,0.7,5,3,53
+Manchester United,Diogo Dalot,25.0,31.3,80.5,3.3,2.0,3.4,0.7,1.2,1.3,8,0,53
+Lyon,Duje Ćaleta-Car,27.0,17.6,91.0,2.6,0.2,2.1,1.9,2.2,1.5,8,2,53
+Internazionale,Yann Aurel Bisseck,23.0,18.3,91.8,5.1,1.7,1.9,1.3,2.6,0.9,10,1,53
+Real Madrid,Lucas Vázquez,33.0,24.4,87.1,4.1,1.5,3.1,1.0,0.2,1.2,4,1,53
+Atletico Madrid,Javi Galán,29.0,19.9,82.9,2.7,2.6,3.2,0.7,1.3,1.9,11,0,53
+Atletico Madrid,Nahuel Molina,26.0,17.7,79.9,3.4,2.0,3.2,0.9,0.6,0.7,1,0,53
+Rayo Vallecano,Andrei Ratiu,26.0,34.1,81.6,4.3,3.6,2.9,1.3,0.6,0.7,5,2,53
+Newcastle United,Valentino Livramento,21.0,31.6,85.4,5.0,2.6,2.4,1.2,0.9,0.2,1,1,53
+Athletic Club,Óscar de Marcos,35.0,17.4,79.2,5.9,1.5,2.8,1.0,0.5,0.9,0,0,53
+Athletic Club,Adama Boiro,22.0,12.3,79.9,3.7,2.0,2.6,0.8,1.3,1.1,3,1,53
+Bochum,Tim Oermann,20.0,24.7,82.4,2.5,0.6,2.9,1.3,1.1,0.6,0,0,53
+Heidenheim,Jonas Föhrenbach,28.0,20.4,72.5,2.9,1.8,3.0,1.4,0.7,0.7,3,0,53
+Sevilla,Adrià Pedrosa,26.0,25.6,74.1,3.1,1.6,3.1,1.7,0.4,1.5,7,0,52
+Las Palmas,Mika Mármol,23.0,26.7,74.4,4.0,1.2,3.7,1.7,1.0,1.2,8,2,52
+Auxerre,Sinaly Diomande,23.0,21.6,84.6,3.3,0.4,3.2,1.7,1.3,1.1,9,2,52
+Las Palmas,Juan Herzog,21.0,14.6,86.4,1.8,0.0,2.1,1.2,3.0,0.4,1,0,52
+Eintracht Frankfurt,Nnamdi Collins,20.0,16.6,86.3,3.8,1.8,3.0,1.3,0.8,1.6,4,3,52
+Werder Bremen,Miloš Veljković,28.0,11.4,86.7,5.6,0.8,1.1,1.2,2.1,0.4,4,1,52
+Wolfsburg,Denis Vavro,28.0,27.4,86.9,3.5,0.3,2.1,1.8,2.9,0.3,4,3,52
+Augsburg,Dimitris Giannoulis,28.0,29.5,74.7,3.5,2.0,3.2,1.7,0.3,0.6,8,0,52
+Werder Bremen,Niklas Stark,29.0,23.5,85.6,2.6,0.3,2.9,1.7,2.0,1.3,14,1,52
+Alaves,Nahuel Tenaglia,28.0,32.5,72.1,3.2,1.3,4.4,1.0,1.4,1.1,11,2,52
+Montpellier,Théo Sainte-Luce,25.0,11.4,74.1,1.9,1.7,3.2,1.4,1.3,0.7,3,1,52
+Le Havre,Loïc Nego,33.0,27.4,75.1,3.7,2.3,3.2,0.6,0.7,1.0,4,0,52
+Lille,Gabriel Gudmundsson,25.0,20.0,82.1,4.6,3.6,2.6,1.0,0.6,1.5,3,3,52
+Nantes,Nicolas Pallois,36.0,22.5,83.6,2.3,0.3,4.0,2.1,0.9,1.0,12,3,52
+Southampton,Jan Bednarek,28.0,28.2,92.7,2.1,0.2,3.3,1.7,2.5,1.1,10,5,52
+Sint Truiden,Ryoya Ogawa,27.0,27.3,73.1,3.6,1.7,2.9,1.6,1.3,0.8,9,1,52
+Mallorca,Copete,24.0,17.0,83.3,2.8,0.6,2.7,1.4,1.6,1.6,6,2,52
+Hoffenheim,Stanley N'Soki,25.0,14.6,85.8,3.6,0.7,3.3,1.5,1.5,0.8,8,3,52
+Arsenal,Gabriel Magalhães,26.0,26.3,90.2,4.8,0.4,1.6,1.6,2.0,0.7,4,2,52
+Rayo Vallecano,Abdul Mumin,26.0,22.4,82.9,1.8,0.5,2.7,1.8,1.4,1.0,11,0,52
+Gent,Tsuyoshi Watanabe,27.0,26.9,86.2,3.4,0.6,2.4,1.5,2.4,0.8,3,2,52
+Aston Villa,Ian Maatsen,22.0,12.7,81.5,3.9,2.4,3.5,1.0,0.8,0.9,5,3,52
+Auxerre,Jubal,30.0,29.4,86.8,1.1,0.0,2.9,2.1,2.4,0.9,13,1,52
+Toulouse,Mark McKenzie,25.0,27.7,86.1,3.5,0.4,2.7,1.1,1.6,1.1,9,1,52
+Real Betis,Natan,23.0,24.2,88.7,2.1,0.5,2.6,1.0,2.7,0.8,10,2,52
+Rayo Vallecano,Pep Chavarría,26.0,28.8,79.7,4.0,2.0,2.6,1.2,0.8,1.1,6,1,52
+Wolverhampton Wanderers,Matt Doherty,32.0,23.5,82.8,3.4,1.2,2.6,1.2,2.4,0.8,6,3,52
+West Ham United,Jean-Clair Todibo,24.0,20.4,87.9,1.9,0.4,3.6,1.2,1.4,0.8,3,3,52
+Juventus,Pierre Kalulu,24.0,26.0,93.1,4.5,1.8,2.2,1.0,1.0,1.0,10,1,52
+Bournemouth,Illia Zabarnyi,21.0,34.6,82.1,4.0,0.8,2.7,1.0,2.2,0.6,9,2,52
+Crystal Palace,Maxence Lacroix,24.0,34.7,81.7,1.9,0.2,3.5,1.4,1.7,1.0,8,2,52
+Tottenham Hotspur,Pedro Porro,24.0,29.0,73.2,5.3,2.2,3.5,1.5,0.4,0.9,5,2,52
+Brentford,Kristoffer Ajer,26.0,16.1,78.3,3.5,1.7,2.4,1.1,1.7,0.8,5,0,52
+Brest,Brendan Chardonnet,29.0,26.9,82.1,1.9,0.3,2.8,1.7,2.2,1.3,6,2,52
+Chelsea,Wesley Fofana,23.0,13.1,90.2,2.4,1.5,2.1,1.1,2.1,1.8,7,2,52
+Manchester City,Matheus Nunes,25.0,18.6,86.3,4.2,3.4,2.7,0.9,0.8,1.6,7,2,52
+Espanyol,Marash Kumbulla,24.0,33.1,84.5,2.1,0.3,2.6,1.5,2.1,1.1,9,2,52
+Dender,Joedrick Pupe,27.0,24.1,74.3,6.8,0.8,2.9,1.5,2.0,0.9,17,0,52
+Sevilla,Carmona,22.0,32.8,80.5,3.3,1.4,4.6,1.1,1.0,1.5,11,3,52
+Nice,Youssouf Ndayishimiye,25.0,21.5,89.4,4.0,0.8,2.8,1.6,1.7,0.9,5,4,52
+Lazio,Mario Gila,23.0,30.5,91.6,5.1,1.6,2.7,0.7,2.2,1.0,8,4,52
+West Ham United,Konstantinos Mavropanos,26.0,22.7,86.3,2.7,0.7,3.3,1.1,2.5,0.7,14,1,52
+Athletic Club,Yuri Berchiche,34.0,22.7,84.0,7.1,1.9,2.6,1.1,1.2,0.8,8,3,52
+Atalanta,Isak Hien,25.0,25.9,89.7,2.0,0.3,3.1,1.2,2.6,1.4,13,2,52
+Everton,James Tarkowski,31.0,32.5,81.0,2.3,0.3,3.2,1.8,3.1,1.1,9,4,51
+Villarreal,Kiko Femenía,33.0,24.8,88.9,4.5,2.1,3.6,0.8,0.2,0.8,7,3,51
+Antwerp,Kobe Corbanie,19.0,13.1,85.0,3.9,0.8,3.3,1.0,0.5,0.8,2,1,51
+Mechelen,Ahmed Touba,26.0,22.2,88.9,4.2,0.3,3.2,0.7,2.9,0.8,12,2,51
+Barcelona,Alejandro Balde,20.0,25.5,88.0,3.6,4.2,0.9,0.9,0.6,0.6,2,0,51
+Lazio,Alessio Romagnoli,29.0,29.7,91.8,3.0,0.3,2.5,1.1,2.8,1.0,14,1,51
+Club Brugge,Maxim De Cuyper,23.0,24.6,78.6,7.6,1.3,2.7,1.1,0.7,0.9,3,2,51
+Saint Etienne,Mickael Nade,25.0,25.6,90.0,2.8,0.7,3.6,1.4,1.1,0.7,4,8,51
+Fiorentina,Pietro Comuzzo,19.0,24.5,85.7,3.1,0.6,2.9,1.4,2.6,1.0,5,4,51
+Bologna,Charalambos Lykogiannis,30.0,11.7,71.4,4.2,0.9,2.9,0.9,2.2,0.9,3,1,51
+Charleroi,Stelios Andreou,22.0,24.2,85.9,4.0,0.7,2.9,1.4,1.7,0.5,13,2,51
+Liverpool,Virgil van Dijk,33.0,37.0,91.6,5.4,0.6,2.5,0.7,3.2,0.5,5,4,51
+Udinese,Thomas Kristensen,22.0,19.5,79.9,3.9,1.0,2.7,0.9,3.1,1.6,8,2,51
+Heidenheim,Frans Krätzig,21.0,13.6,75.9,2.7,1.8,3.6,0.9,0.2,0.5,4,0,51
+Brighton and Hove Albion,Lewis Dunk,32.0,23.2,91.0,6.1,0.9,1.3,1.2,2.2,0.3,5,2,51
+Brentford,Sepp van den Berg,22.0,28.8,85.4,2.7,0.4,2.1,1.8,3.3,0.8,3,3,51
+Toulouse,Jaydee Canvot,18.0,12.3,86.2,3.3,0.7,2.8,0.8,1.3,1.5,2,1,51
+Brighton and Hove Albion,Jan Paul van Hecke,24.0,32.9,88.2,6.9,1.7,2.1,1.1,2.5,0.8,16,2,51
+Torino,Saúl Coco,25.0,31.6,88.3,2.2,0.5,2.7,1.6,2.0,1.7,10,4,51
+Westerlo,Bryan Reynolds,23.0,26.3,74.7,7.1,3.0,2.5,1.1,0.8,1.2,11,1,51
+Udinese,Jordan Zemura,24.0,15.8,76.5,2.7,1.6,3.0,1.1,0.4,1.4,2,0,51
+Udinese,Christian Kabasele,33.0,13.0,85.3,3.4,0.7,2.4,1.1,2.7,1.5,6,1,51
+Crystal Palace,Tyrick Mitchell,24.0,34.5,72.0,2.0,1.8,3.2,2.0,0.6,0.7,2,2,51
+Angers,Carlens Arcus,28.0,22.9,79.4,3.1,1.7,3.4,1.0,1.4,1.7,3,3,51
+Espanyol,Omar El Hilali,20.0,35.1,78.9,2.4,1.0,4.5,1.5,1.0,1.5,17,2,51
+Reims,Joseph Okumu,27.0,18.9,81.5,6.1,1.0,2.9,1.7,1.9,0.8,19,2,51
+Holstein Kiel,Max Geschwill,23.0,14.3,74.3,4.1,0.4,3.9,1.0,1.0,0.9,2,1,51
+Barcelona,Pau Cubarsí,17.0,29.2,93.5,6.5,0.9,1.7,0.4,2.1,0.8,6,1,51
+Kortrijk,Dion De Neve,22.0,20.5,67.4,2.7,3.0,2.7,1.7,0.5,0.4,0,1,51
+Nantes,Nicolas Cozza,25.0,22.8,77.7,2.8,1.1,3.7,1.1,0.7,0.6,8,0,51
+Napoli,Giovanni Di Lorenzo,30.0,37.0,83.6,6.1,1.4,2.6,0.5,1.2,1.2,6,1,51
+Holstein Kiel,Marco Komenda,27.0,14.6,78.8,3.6,0.9,2.2,1.6,1.0,1.1,3,0,51
+Eintracht Frankfurt,Arthur Theate,24.0,30.1,82.6,5.7,1.7,2.5,1.4,1.8,0.5,14,3,51
+Leganes,Matija Nastasić,31.0,23.5,82.6,2.5,0.0,2.0,1.7,1.7,0.6,9,0,51
+RB Leipzig,Lukas Klostermann,28.0,20.5,88.4,4.0,0.8,2.5,1.5,1.0,0.6,5,3,50
+Napoli,Amir Rrahmani,30.0,37.9,91.0,5.0,0.8,1.7,1.1,3.3,1.1,2,2,50
+Kortrijk,Mark Mampasi,21.0,11.6,69.2,3.5,0.5,2.8,1.1,3.4,1.4,12,0,50
+Lille,Aïssa Mandi,32.0,19.3,88.7,4.2,0.6,2.4,1.2,0.7,0.4,3,0,50
+Marseille,Michael Amir Murillo,28.0,27.1,87.5,5.2,1.6,2.5,0.8,1.5,1.1,6,4,50
+Lazio,Nuno Tavares,24.0,18.9,78.7,5.9,5.2,2.6,1.1,0.6,1.0,15,2,50
+Tottenham Hotspur,Micky van de Ven,23.0,11.3,90.9,4.5,0.7,1.8,1.1,1.7,0.9,4,1,50
+Milan,Matteo Gabbia,24.0,24.0,91.2,3.1,0.5,1.5,1.0,2.0,0.8,4,1,50
+Westerlo,Luka Vušković,17.0,27.5,84.3,5.6,1.3,1.8,1.5,4.0,0.7,14,0,50
+Como,Alberto Dossena,25.0,20.3,87.6,1.8,0.2,2.7,1.1,2.9,1.1,12,1,50
+Roma,Gianluca Mancini,28.0,34.9,86.0,4.0,1.3,2.2,0.6,1.7,1.4,8,0,50
+Roma,Alexis Saelemaekers,25.0,15.6,81.5,3.4,2.5,2.7,0.8,0.5,0.8,4,1,50
+Mechelen,Rafik Belghali,22.0,17.4,79.0,4.5,2.4,2.8,1.1,0.2,1.0,2,1,50
+Chelsea,Malo Gusto,21.0,20.7,86.5,5.7,2.4,3.3,1.4,0.4,1.0,4,5,50
+Milan,Malick Thiaw,22.0,20.1,93.1,4.4,0.6,1.9,0.7,2.4,1.2,2,1,50
+Standard Liege,Ilay Camara,21.0,23.8,72.0,3.3,4.2,2.7,1.0,0.3,1.1,2,1,50
+Brest,Massadio Haïdara,31.0,18.7,78.6,4.1,2.4,2.8,1.0,1.3,1.1,16,0,50
+Toulouse,Djibril Sidibé,32.0,23.4,79.7,5.2,0.7,3.6,0.5,0.7,0.9,1,1,50
+Real Betis,Aitor Ruibal,28.0,14.7,80.9,3.4,1.4,3.1,1.4,0.5,0.7,5,1,50
+Liverpool,Ibrahima Konaté,25.0,28.5,90.2,4.0,0.9,2.0,1.0,2.6,0.9,5,3,50
+Girona,Arnau Martinez,21.0,29.2,86.4,5.5,1.4,2.8,0.6,1.0,0.7,6,2,50
+Holstein Kiel,David Zec,24.0,17.2,87.7,2.0,0.2,2.3,1.9,2.0,1.2,5,3,50
+Real Sociedad,Igor Zubeldia,27.0,25.2,86.4,4.0,0.9,2.6,1.3,2.6,1.5,14,2,50
+Parma,Woyo Coulibaly,25.0,12.1,86.7,3.4,3.0,1.7,1.6,0.7,1.0,6,0,50
+Reims,Cédric Kipré,27.0,24.3,88.9,3.2,0.7,3.0,1.7,1.7,1.0,17,2,50
+Auxerre,Ki-Jana Hoever,22.0,23.8,70.8,3.3,2.5,3.0,1.4,1.0,0.9,12,1,50
+Lecce,Frederic Guilbert,29.0,27.2,76.8,3.2,1.8,4.1,1.0,1.5,1.2,16,3,50
+Empoli,Ardian Ismajli,27.0,27.9,86.8,1.4,0.1,3.1,1.3,2.8,0.8,3,3,50
+Bayer Leverkusen,Edmond Tapsoba,25.0,27.9,86.4,5.9,1.9,2.3,0.8,1.9,1.2,7,3,50
+Mainz 05,Danny da Costa,31.0,22.4,78.4,4.9,0.9,3.1,0.8,1.5,0.8,0,3,50
+Villarreal,Sergi Cardona,25.0,32.8,77.3,2.3,1.6,3.4,1.6,1.2,1.2,14,1,49
+Roma,Angeliño,27.0,35.3,78.4,4.9,1.9,2.1,0.9,0.8,0.9,1,0,49
+Crystal Palace,Marc Guéhi,24.0,34.0,83.5,3.9,0.6,2.6,1.6,2.0,0.7,17,2,49
+Lens,Facundo Medina,25.0,28.3,87.6,6.1,1.6,2.7,1.1,1.1,1.0,26,0,49
+Beerschot Wilrijk,Derrick Tshimanga,35.0,11.5,84.1,3.4,0.3,3.4,1.1,0.5,0.8,1,1,49
+Nice,Melvin Bard,23.0,21.6,77.4,4.1,2.5,3.8,1.8,1.1,0.8,17,3,49
+Bochum,Maximilian Wittek,28.0,30.2,70.6,4.7,1.6,3.0,1.8,0.8,1.1,8,3,49
+Aston Villa,Tyrone Mings,31.0,12.5,88.2,3.2,0.6,1.1,1.0,2.2,0.3,1,1,49
+Roma,Zeki Çelik,27.0,25.2,82.2,4.2,1.1,3.1,1.1,1.2,1.2,8,3,49
+Monza,Andrea Carboni,23.0,24.4,85.5,2.1,0.4,3.6,1.3,1.6,1.2,8,4,49
+Bayer Leverkusen,Jonathan Tah,28.0,33.0,92.9,5.1,0.5,1.7,0.7,2.3,0.5,3,2,49
+Werder Bremen,Derrick Köhn,25.0,15.1,79.3,2.6,2.4,2.0,1.4,0.5,0.9,2,0,49
+Montpellier,Falaye Sacko,29.0,13.7,83.6,4.3,1.5,2.0,1.2,0.6,1.1,7,0,49
+Angers,Florent Hanin,34.0,29.8,77.5,3.3,1.6,3.9,1.0,0.5,0.5,2,2,49
+Real Sociedad,Aritz Elustondo,30.0,16.2,85.4,3.1,1.0,1.9,1.0,1.8,1.5,7,0,49
+Venezia,Fali Candé,26.0,17.0,81.0,2.8,0.3,2.4,1.2,2.2,1.4,4,2,49
+Valladolid,Lucas Oliveira Rosa,24.0,21.0,76.5,2.4,1.5,3.9,1.1,0.9,1.7,6,2,49
+Lecce,Antonino Gallo,24.0,29.0,66.2,3.7,2.0,2.9,1.1,0.9,0.4,8,0,49
+Anderlecht,Moussa N'Diaye,22.0,18.1,86.3,7.0,2.6,3.4,0.7,1.0,1.2,14,3,49
+Mallorca,Pablo Maffeo,27.0,26.4,70.8,2.8,1.7,3.2,1.2,0.8,0.8,7,1,49
+Southampton,Ryan Manning,28.0,16.4,77.1,2.1,0.9,2.7,1.2,0.9,1.2,2,0,49
+Ipswich Town,Luke Woolfenden,25.0,13.2,88.3,1.1,0.5,2.1,1.6,1.1,0.4,2,0,49
+Lazio,Manuel Lazzari,30.0,15.7,79.1,4.2,4.6,2.3,0.6,0.3,0.8,6,0,49
+Atletico Madrid,José María Giménez,29.0,22.2,91.8,2.9,0.1,2.4,1.3,1.7,0.6,5,2,49
+Strasbourg,Diego Moreira,19.0,28.7,77.5,3.0,3.4,2.8,0.8,0.9,0.9,12,0,49
+Aston Villa,Lucas Digne,31.0,26.3,74.9,2.2,0.9,3.4,0.9,1.4,0.8,4,1,49
+Bochum,Ivan Ordets,32.0,20.7,80.0,2.3,0.1,2.9,1.4,4.6,1.1,6,3,49
+Toulouse,Aron Dønnum,26.0,30.0,72.5,4.2,3.1,2.8,1.0,0.4,1.3,6,1,49
+Osasuna,Abel,23.0,23.1,72.5,3.3,2.2,3.4,1.3,0.9,1.1,6,2,49
+Chelsea,Tosin Adarabioyo,26.0,15.7,91.1,2.7,0.3,1.8,0.6,2.7,0.5,4,0,49
+Internazionale,Denzel Dumfries,28.0,21.8,72.6,2.3,2.5,1.4,1.4,2.6,2.5,4,1,49
+Charleroi,Vetle Dragsnes,30.0,24.0,77.1,3.8,2.3,2.1,1.1,0.8,0.8,2,0,49
+Dender,David Hrnčár,26.0,17.8,67.2,3.3,1.1,2.6,0.9,1.3,0.5,6,0,48
+Marseille,Derek Cornelius,26.0,15.8,93.4,4.3,0.6,2.4,1.0,2.0,1.6,28,0,48
+Southampton,James Bree,26.0,12.0,83.5,2.8,1.1,2.3,0.8,1.0,0.3,0,0,48
+Hoffenheim,Pavel Kadeřábek,32.0,17.6,70.1,2.7,0.9,2.6,0.7,3.2,1.2,6,1,48
+Holstein Kiel,Lasse Rosenboom,22.0,19.3,65.1,1.8,1.0,3.4,1.5,1.6,1.0,3,3,48
+Union Berlin,Danilho Doekhi,26.0,34.0,78.3,2.8,0.4,2.4,1.0,2.7,1.1,7,1,48
+OH Leuven,Takuma Ominami,26.0,14.8,88.1,1.9,0.3,1.8,1.0,2.9,0.7,2,0,48
+Lens,Malang Sarr,25.0,15.4,89.4,3.5,0.3,2.8,1.2,1.2,0.8,9,3,48
+Lille,Alexsandro Ribeiro,24.0,30.0,91.2,5.9,0.8,2.0,0.8,2.1,0.9,13,3,48
+Roma,Obite N'Dicka,24.0,38.0,92.1,2.8,0.8,1.7,1.2,1.6,1.0,2,2,48
+Wolverhampton Wanderers,Rayan Aït-Nouri,23.0,34.7,84.2,3.1,2.6,3.3,1.2,0.6,0.9,15,2,48
+Brentford,Nathan Collins,23.0,38.0,85.9,3.3,0.8,1.9,2.0,3.1,0.8,5,3,48
+Fiorentina,Luca Ranieri,25.0,34.2,85.4,2.3,0.7,2.0,1.4,1.4,0.7,10,1,48
+Juventus,Federico Gatti,26.0,24.5,95.0,3.0,1.0,1.9,1.1,1.5,0.8,2,2,48
+Mechelen,Patrick Pflücke,27.0,16.4,80.1,4.0,2.5,2.0,1.1,0.2,0.3,1,0,48
+Standard Liege,Henry Lawrence,22.0,23.1,74.6,3.2,0.9,2.9,1.2,1.5,0.8,9,1,48
+Angers,Jordan Lefort,30.0,34.0,82.7,2.6,0.2,2.5,1.6,1.2,0.4,6,3,48
+Brentford,Ethan Pinnock,31.0,21.3,85.6,1.9,0.1,2.8,1.4,3.0,0.4,5,4,48
+Lyon,Clinton Mata,31.0,26.4,88.5,3.3,0.8,3.3,1.0,0.8,1.0,6,3,48
+Brest,Abdoulaye Niakhate Ndiaye,22.0,19.0,86.4,2.1,0.3,3.2,1.5,2.4,1.1,15,3,48
+Nottingham Forest,Murillo,22.0,35.5,78.5,3.2,0.6,2.5,1.9,1.2,0.8,9,3,48
+Torino,Mërgim Vojvoda,29.0,12.4,83.6,5.2,1.5,2.0,1.0,0.6,1.0,4,1,48
+Dortmund,Julian Ryerson,26.0,25.2,85.3,3.7,2.6,2.7,1.2,0.4,1.2,14,1,48
+Mainz 05,Phillipp Mwene,30.0,29.1,75.0,3.6,2.1,2.6,0.9,0.7,0.8,7,1,48
+Reims,Aurélio Buta,27.0,22.0,82.6,3.8,1.3,2.7,0.9,0.5,1.5,8,0,48
+Augsburg,Cedric Zesiger,26.0,13.6,78.6,2.9,0.3,2.5,1.2,2.0,1.1,15,1,48
+Espanyol,Carlos Romero,22.0,28.5,71.4,2.2,1.8,3.6,1.8,0.5,1.2,13,1,48
+Lyon,Moussa Niakhate,28.0,30.3,90.3,3.7,1.1,2.4,0.9,1.4,1.1,2,3,48
+Marseille,Quentin Merlin,22.0,17.8,82.4,4.8,2.2,2.0,1.1,0.4,0.6,1,1,48
+Kortrijk,Bram Lagae,20.0,18.5,70.0,4.4,0.6,2.4,1.7,2.2,1.1,5,2,48
+Nantes,Kelvin Amian,26.0,24.1,80.1,3.0,1.3,2.8,0.7,0.9,1.0,5,0,48
+Osasuna,Enzo Boyomo,22.0,33.2,87.0,3.3,0.5,3.4,1.0,0.9,1.3,5,3,48
+Freiburg,Max Rosenfelder,21.0,13.9,85.3,2.1,1.7,2.4,1.2,0.9,0.6,8,0,48
+Holstein Kiel,Timo Becker,27.0,27.2,77.4,2.1,1.0,2.6,1.1,1.1,0.3,2,1,48
+Arsenal,William Saliba,23.0,33.8,94.3,4.1,0.5,2.5,0.7,1.8,0.8,10,7,48
+Ipswich Town,Axel Tuanzebe,26.0,19.1,83.8,3.2,0.5,2.8,1.1,1.2,0.9,13,1,47
+Dortmund,Niklas Süle,28.0,11.8,92.8,4.0,1.3,1.5,0.9,1.0,0.4,4,1,47
+Mainz 05,Anthony Caci,27.0,30.1,71.8,4.4,1.5,2.9,1.1,1.2,1.2,6,2,47
+Anderlecht,Jan-Carlo Simic,19.0,22.1,86.5,4.5,0.3,1.9,1.1,1.9,1.1,6,1,47
+Mallorca,Antonio Raillo,32.0,35.6,88.7,3.0,0.9,1.7,1.4,3.7,1.4,12,1,47
+Union Berlin,Christopher Trimmel,37.0,19.4,60.5,3.8,0.9,2.9,0.7,1.2,0.7,5,0,47
+Hoffenheim,Alexander Prass,23.0,17.5,72.7,3.6,1.6,2.9,1.9,0.9,1.0,1,4,47
+Parma,Botond Balogh,22.0,22.9,89.3,1.6,0.3,2.7,1.5,1.5,0.7,11,2,47
+Venezia,Ridgeciano Haps,31.0,15.3,77.7,3.4,1.7,2.4,1.2,0.9,0.9,6,0,47
+Lecce,Gaby Jean,24.0,15.5,84.3,2.7,0.5,1.5,0.8,2.6,1.0,3,1,47
+Valencia,Dimitri Foulquier,31.0,25.6,78.9,3.8,1.9,2.5,0.8,0.5,0.9,6,1,47
+Angers,Lilian Raolisoa,24.0,14.7,69.5,3.2,2.2,3.8,0.7,1.0,1.1,14,0,47
+Le Havre,Christopher Operi,27.0,13.0,71.4,4.0,2.2,2.1,1.5,0.8,0.7,10,0,47
+RB Leipzig,Ridle Baku,26.0,14.2,75.2,2.9,1.5,2.3,1.3,0.7,0.9,1,0,47
+Auxerre,Gabriel Osho,25.0,18.4,88.8,2.3,0.7,1.9,1.7,1.0,0.6,6,0,47
+Alaves,Moussa Diarra,23.0,20.8,80.2,3.4,0.6,2.9,0.7,1.5,1.3,9,1,47
+Venezia,Marin Šverko,26.0,12.5,82.2,3.0,0.6,2.9,0.8,1.6,0.7,6,3,47
+Southampton,Jack Stephens,30.0,15.5,92.0,4.1,0.9,3.0,1.3,0.4,0.8,15,2,47
+Liverpool,Trent Alexander-Arnold,25.0,26.5,73.5,8.8,1.9,3.9,1.0,0.1,0.4,5,4,47
+Fulham,Joachim Andersen,28.0,28.7,82.7,3.9,0.6,2.1,1.3,2.4,0.6,14,1,47
+Villarreal,Logan Costa,23.0,28.8,87.7,4.0,0.9,2.0,0.9,1.6,0.7,9,2,47
+Heidenheim,Omar Traoré,26.0,29.1,70.7,4.0,3.5,2.4,1.2,0.5,0.8,10,0,47
+Rayo Vallecano,Iván Balliu,32.0,13.4,75.8,3.4,0.6,2.2,1.2,1.0,1.4,3,0,47
+Antwerp,Zeno Van den Bosch,21.0,30.0,89.9,3.3,0.2,2.4,1.9,1.1,1.0,8,2,47
+Udinese,Oumar Solet,24.0,18.6,88.5,3.5,1.1,2.7,1.7,1.1,0.9,11,4,47
+Cagliari,Sebastiano Luperto,27.0,36.0,83.9,2.7,0.6,2.2,0.8,1.7,0.6,7,1,47
+Bologna,Juan Miranda,24.0,25.3,75.7,6.4,1.3,2.2,0.8,1.4,1.0,9,1,47
+Manchester City,Manuel Akanji,29.0,22.4,93.6,7.1,2.1,1.2,0.5,1.3,0.8,3,3,47
+Juventus,Andrea Cambiaso,24.0,24.8,88.5,4.5,3.1,2.5,1.0,0.2,1.1,4,5,47
+Everton,Vitaliy Mykolenko,25.0,34.3,74.6,3.2,1.0,3.1,0.7,1.4,0.6,7,2,47
+Wolverhampton Wanderers,Toti Gomes,25.0,29.1,85.9,3.0,0.9,3.0,1.0,1.8,0.8,10,5,47
+Nice,Jonathan Clauss,31.0,25.7,71.9,4.1,2.1,3.9,1.0,0.6,1.0,7,3,47
+Real Madrid,Ferland Mendy,29.0,11.2,93.9,3.2,1.1,2.3,1.0,0.4,0.4,6,1,47
+OH Leuven,Thibault Vlietinck,26.0,14.2,75.1,3.8,2.8,1.6,1.2,0.8,0.7,2,0,47
+Marseille,Leonardo Balerdi,25.0,25.3,93.8,4.2,0.5,3.6,1.0,1.5,1.1,17,4,47
+Kortrijk,Gilles Dewaele,28.0,12.2,72.3,3.0,1.0,2.1,0.6,1.9,1.1,1,1,46
+Real Madrid,Raúl Asencio,21.0,18.6,93.8,1.5,0.3,2.0,0.6,1.6,0.6,3,2,46
+Real Madrid,Antonio Rüdiger,31.0,25.5,91.8,3.7,0.8,1.1,0.9,1.4,0.6,6,1,46
+Ipswich Town,Ben Johnson,24.0,15.1,71.6,1.8,1.1,3.4,1.5,1.3,1.8,13,1,46
+Atletico Madrid,Clément Lenglet,29.0,22.0,87.5,3.6,0.7,2.2,1.1,1.7,1.3,15,1,46
+Bournemouth,Milos Kerkez,20.0,37.1,75.8,4.3,2.9,2.6,1.0,0.8,0.8,4,4,46
+West Ham United,Max Kilman,27.0,37.2,86.7,3.0,0.8,2.1,1.6,3.0,0.6,5,6,46
+Manchester City,Rico Lewis,19.0,21.1,91.5,5.1,1.8,2.0,1.3,0.3,0.6,13,1,46
+Nottingham Forest,Nikola Milenković,26.0,37.0,82.3,1.4,0.1,2.1,1.1,2.7,0.5,4,1,46
+Everton,Jake O'Brien,23.0,17.5,79.6,2.9,0.4,1.7,1.0,2.3,0.7,5,0,46
+Roma,Stephan El Shaarawy,31.0,12.3,79.2,4.0,3.4,2.1,0.3,0.4,0.6,2,0,46
+Juventus,Nicolò Savona,21.0,19.3,89.5,3.1,1.8,2.1,0.6,0.5,0.7,5,0,46
+Girona,Ladislav Krejčí,25.0,27.1,90.1,5.3,1.1,2.1,0.9,2.0,0.9,9,5,46
+Venezia,Antonio Candela,24.0,11.3,74.2,2.4,1.1,3.5,0.6,1.2,1.2,8,2,46
+Valladolid,Luis Pérez,29.0,28.4,75.7,3.1,1.4,2.5,0.9,0.5,0.5,5,0,46
+Alaves,Manu Sánchez,23.0,29.4,72.2,2.7,1.6,3.8,1.7,0.3,1.9,14,1,46
+Wolfsburg,Jakub Kamiński,22.0,12.6,70.4,3.2,3.3,2.4,1.3,0.6,0.8,2,1,46
+Valencia,César Tárrega,22.0,33.6,84.4,2.4,0.6,2.1,1.2,2.6,1.7,13,2,46
+Mallorca,Martin Valjent,28.0,30.7,85.9,3.0,0.7,1.6,1.0,1.6,0.5,4,1,46
+Bochum,Felix Passlack,26.0,26.1,66.2,2.5,1.6,2.7,1.6,0.4,1.1,10,1,46
+Venezia,Jay Idzes,24.0,34.8,86.0,2.4,0.4,2.2,1.5,1.6,1.4,14,0,46
+Anderlecht,Mathias Jørgensen,34.0,15.7,89.0,5.2,0.8,2.4,1.3,1.2,1.0,15,1,46
+Club Brugge,Joel Ordóñez,20.0,19.3,91.9,5.0,0.7,1.9,0.7,1.6,1.2,10,1,46
+Parma,Giovanni Leoni,17.0,13.4,87.7,1.6,0.0,2.2,1.5,1.3,0.8,8,1,46
+Udinese,Jaka Bijol,25.0,32.9,83.6,3.0,0.7,2.5,1.2,3.3,1.5,24,1,46
+Toulouse,Charlie Cresswell,21.0,28.8,83.0,2.4,0.3,2.2,1.5,3.4,1.0,5,3,46
+Montpellier,Modibo Sagnan,25.0,23.8,88.6,2.1,0.5,3.6,1.0,1.6,1.4,13,5,46
+Bochum,Jakov Medić,25.0,17.9,87.4,1.5,0.1,2.0,1.8,1.7,0.6,5,4,45
+Brest,Kenny Lala,32.0,29.8,76.1,4.6,1.9,3.1,0.8,0.3,0.6,8,2,45
+Napoli,Leonardo Spinazzola,31.0,17.0,79.3,5.2,4.9,1.5,0.7,0.2,0.4,1,1,45
+Nantes,Jean-Charles Castelletto,29.0,29.1,88.6,3.0,0.7,2.0,0.9,1.8,1.2,19,0,45
+Saint Etienne,Dylan Batubinsika,28.0,22.4,91.4,2.3,0.5,2.9,1.0,2.0,1.1,17,3,45
+Cagliari,Tommaso Augello,29.0,30.3,71.9,3.9,1.9,2.1,0.8,1.6,0.5,3,2,45
+Genoa,Aarón Martín,27.0,34.3,72.5,2.6,1.5,2.6,1.0,0.6,1.1,8,1,45
+Venezia,Mikael Ellertsson,22.0,27.6,71.0,1.3,1.2,2.7,1.5,0.6,0.8,2,0,45
+St Pauli,Hauke Wahl,30.0,33.0,86.6,4.3,0.9,2.0,1.3,1.4,0.4,1,4,45
+Manchester City,Rúben Dias,27.0,25.2,93.5,6.3,1.7,1.5,0.9,1.5,0.5,7,4,45
+Osasuna,Jorge Herrando,23.0,15.2,85.4,2.5,0.5,1.9,1.3,1.9,1.6,6,2,45
+Newcastle United,Fabian Schär,32.0,32.6,83.7,3.6,0.6,2.5,1.2,1.7,1.1,14,3,45
+Leganes,Sergi,32.0,32.9,83.7,2.3,0.1,2.4,1.2,1.9,0.9,10,2,45
+Freiburg,Philipp Lienhart,28.0,30.8,86.2,4.5,1.4,1.9,1.0,1.9,0.7,5,3,45
+Valladolid,Eray Cömert,26.0,19.8,87.7,2.4,0.5,2.4,1.4,0.9,0.9,6,2,45
+Tottenham Hotspur,Radu Drăgușin,22.0,13.9,85.2,2.7,0.5,1.8,1.6,2.4,0.4,1,4,45
+Leicester City,Wout Faes,26.0,31.3,88.0,2.7,0.4,2.2,1.5,1.4,0.7,4,4,45
+Southampton,Taylor Harwood-Bellis,22.0,31.4,87.4,4.0,0.9,1.8,2.1,2.0,1.1,9,6,45
+Everton,Ashley Young,39.0,20.9,70.9,4.3,1.1,4.0,0.7,0.5,1.4,12,2,45
+Rayo Vallecano,Aridane Hernández,35.0,11.4,87.9,3.3,0.2,1.7,0.9,3.5,0.4,1,2,45
+Ipswich Town,Dara O'Shea,25.0,34.7,78.2,2.3,0.1,2.4,1.8,3.3,0.6,6,4,45
+Southampton,Kyle Walker-Peters,27.0,32.5,88.2,4.3,3.5,1.9,0.8,0.3,0.9,5,1,45
+Rayo Vallecano,Florian Lejeune,33.0,37.0,83.8,3.9,0.6,2.4,1.0,2.5,1.4,17,1,44
+Nice,Moïse Bombito,24.0,24.4,90.2,4.0,1.1,2.3,1.4,2.0,1.1,14,7,44
+Beerschot Wilrijk,Loïc Mbe Soh,23.0,22.0,87.1,3.1,0.4,1.7,1.3,1.4,1.0,1,2,44
+RB Leipzig,Lutsharel Geertruida,24.0,17.4,86.7,5.3,1.2,2.9,0.9,0.7,1.0,5,4,44
+Girona,David López,34.0,27.0,92.1,4.9,0.6,1.7,0.8,1.1,0.4,7,2,44
+Sevilla,Loïc Bade,24.0,29.9,85.7,2.1,0.4,2.5,0.7,2.2,0.9,15,2,44
+Eintracht Frankfurt,Robin Koch,28.0,28.8,90.7,3.2,0.3,1.7,1.4,3.5,0.8,6,4,44
+Monza,Giorgos Kyriakopoulos,28.0,31.7,74.8,3.1,2.1,2.1,0.9,0.8,0.8,8,0,44
+Valladolid,David Torres,21.0,15.4,82.5,2.4,0.7,1.5,1.2,1.3,0.8,5,0,44
+Leganes,Adrià Altimira,23.0,18.2,78.5,2.3,1.3,3.1,0.8,0.7,1.5,9,2,44
+Mainz 05,Andreas Hanche-Olsen,27.0,14.3,82.6,2.4,0.1,2.3,1.7,3.4,1.4,15,2,44
+Arsenal,Jakub Kiwior,24.0,12.5,91.4,3.8,0.4,2.2,1.0,0.9,0.8,1,3,44
+RB Leipzig,Willi Orban,31.0,24.7,87.4,4.3,0.6,2.4,1.8,4.2,0.9,17,4,44
+Strasbourg,Saidou Sow,22.0,11.3,90.7,1.4,0.0,2.1,1.3,1.4,0.6,5,2,44
+Atalanta,Davide Zappacosta,32.0,23.1,82.7,4.6,2.9,1.6,1.2,0.4,0.8,3,2,44
+Parma,Enrico Del Prato,24.0,32.8,84.0,2.5,0.2,1.6,2.1,1.2,0.6,8,2,44
+Hellas Verona,Darko Lazović,33.0,16.3,62.4,2.5,1.3,2.0,1.2,0.6,0.6,0,0,44
+Udinese,Hassane Kamara,30.0,22.3,75.7,2.7,2.3,2.7,1.0,0.9,1.1,16,1,44
+Hellas Verona,Paweł Dawidowicz,29.0,20.5,81.9,1.9,0.5,3.2,0.8,1.6,1.8,15,2,44
+Union Berlin,Leopold Querfeld,20.0,19.4,80.8,2.5,0.2,2.3,1.3,3.4,1.0,11,2,44
+Atletico Madrid,Robin Le Normand,27.0,23.9,90.4,2.3,0.5,1.5,0.8,2.3,1.5,11,1,44
+Brentford,Mads Roerslev,25.0,12.3,78.7,4.1,1.4,1.8,1.0,0.8,0.5,2,0,44
+Aston Villa,Matty Cash,26.0,23.1,77.5,1.8,2.1,3.4,1.0,0.9,1.2,13,2,44
+Everton,Michael Keane,31.0,11.7,82.8,1.2,0.1,2.4,1.2,2.2,0.8,5,2,44
+Chelsea,Reece James,24.0,11.9,84.0,5.4,0.6,1.9,1.2,1.9,0.7,1,4,44
+Chelsea,Marc Cucurella,26.0,33.3,87.7,3.5,1.1,2.9,1.5,1.0,1.1,18,3,44
+St Pauli,Eric Smith,27.0,31.4,80.8,3.8,0.5,2.6,1.2,1.0,0.9,7,4,44
+Wolverhampton Wanderers,Nélson Semedo,30.0,32.2,80.8,2.5,2.1,2.6,1.0,0.9,1.5,11,3,43
+Stuttgart,Josha Vagnoman,23.0,20.5,80.4,2.3,1.2,2.0,0.8,1.1,0.9,7,1,43
+Bayern Munich,Raphaël Guerreiro,30.0,17.6,88.7,4.8,2.2,1.6,0.5,0.5,0.5,2,1,43
+Bologna,Jhon Lucumí,26.0,29.1,91.1,3.7,1.2,2.7,1.1,1.5,0.8,16,7,43
+Everton,Jarrad Branthwaite,22.0,27.9,82.1,2.4,0.4,2.3,1.1,2.2,0.4,4,4,43
+Villarreal,Raúl Albiol,38.0,13.2,89.4,2.6,0.2,1.2,0.8,2.2,0.8,11,1,43
+Osasuna,Catena,29.0,34.2,83.8,2.6,0.3,2.4,1.2,2.0,1.1,14,2,43
+Chelsea,Levi Colwill,21.0,35.0,89.3,3.7,0.4,2.3,1.1,2.3,1.3,12,4,43
+Marseille,Luis Henrique,22.0,29.2,81.0,4.9,2.9,0.9,0.5,0.0,0.3,0,0,43
+OH Leuven,Hasan Kuruçay,26.0,17.3,89.9,3.1,0.5,2.1,0.6,1.3,0.8,13,1,43
+Bologna,Lorenzo De Silvestri,36.0,11.9,79.1,3.9,0.3,1.8,1.0,1.0,1.4,1,0,43
+Charleroi,Check Keita,21.0,13.2,83.1,2.3,0.3,2.3,1.4,1.6,0.8,14,1,43
+Genoa,Mattia Bani,30.0,16.8,87.4,1.5,0.4,2.4,0.8,1.3,0.4,3,2,43
+Fiorentina,Marin Pongračić,26.0,15.2,89.2,2.2,0.5,2.0,0.9,1.6,1.7,11,2,43
+Lazio,Adam Marušić,31.0,26.0,84.9,3.2,0.9,1.8,0.7,1.1,0.8,1,0,43
+Atalanta,Raoul Bellanova,24.0,26.8,77.3,3.2,3.1,1.6,0.4,0.9,0.6,3,0,43
+Strasbourg,Ismaël Doukouré,21.0,29.4,88.7,3.9,0.7,2.2,1.1,0.9,1.0,7,3,43
+Strasbourg,Mamadou Sarr,18.0,26.3,93.8,2.0,0.3,2.4,1.0,1.1,1.1,7,3,43
+Augsburg,Keven Schlotterbeck,27.0,14.4,84.5,4.1,0.2,2.4,0.9,2.8,0.7,18,1,43
+Augsburg,Marius Wolf,29.0,24.1,68.5,4.9,1.5,2.1,1.2,0.3,0.8,2,1,43
+Union Berlin,Kevin Vogt,32.0,15.2,88.1,4.6,0.7,1.4,1.1,0.9,0.7,9,1,43
+Getafe,Diego Rico,31.0,31.3,67.6,4.3,0.9,3.7,1.3,0.8,1.2,14,2,43
+Wolfsburg,Joakim Mæhle,27.0,24.4,80.9,3.6,2.4,2.4,1.0,0.7,0.4,9,2,43
+Monchengladbach,Joe Scally,21.0,28.8,83.4,2.4,1.8,2.1,1.2,0.8,0.8,9,2,43
+Juventus,Lloyd Kelly,25.0,11.3,83.1,3.2,0.9,1.5,1.0,3.2,1.2,1,3,43
+Ipswich Town,Cameron Burgess,28.0,17.1,80.9,2.5,0.1,1.8,1.2,2.6,0.4,0,3,42
+Fulham,Issa Diop,27.0,14.9,87.5,1.7,0.4,2.3,0.7,1.3,0.7,2,2,42
+Fulham,Calvin Bassey,24.0,34.2,89.7,3.4,1.1,2.2,1.2,1.3,0.8,7,8,42
+Aston Villa,Pau Torres,27.0,22.5,88.9,4.3,1.8,1.4,0.7,0.8,0.4,2,2,42
+Como,Alberto Moreno,32.0,19.3,82.5,4.2,1.2,2.0,0.6,0.6,0.9,4,2,42
+Empoli,Saba Goglichidze,20.0,28.3,77.9,1.6,0.4,3.4,1.3,1.0,0.9,8,3,42
+Angers,Abdoulaye Bamba,34.0,16.8,88.5,1.0,0.1,2.4,0.8,0.7,0.6,2,0,42
+Cagliari,Gabriele Zappa,24.0,34.0,76.5,4.3,1.7,1.9,1.2,0.6,0.7,4,1,42
+Parma,Emanuele Valeri,25.0,32.0,65.6,2.9,2.5,2.5,1.0,0.6,0.9,1,4,42
+Udinese,Kingsley Ehizibue,29.0,27.9,76.7,2.0,1.9,2.8,1.5,1.0,1.2,5,5,42
+Heidenheim,Marnon Busch,29.0,15.6,72.7,4.0,1.4,2.5,1.5,0.8,0.5,4,5,42
+Real Betis,Romain Perraud,26.0,22.3,79.6,2.8,2.3,2.6,0.8,0.4,1.2,16,1,42
+Villarreal,Willy Kambwala,19.0,12.4,87.7,1.3,0.2,2.2,0.8,1.3,0.4,6,1,42
+Celta Vigo,Marcos Alonso,33.0,29.4,89.2,7.3,2.2,2.3,0.7,2.4,1.1,26,4,42
+Osasuna,Juan Cruz Armada,32.0,16.7,78.0,3.2,0.5,2.1,0.9,0.5,1.0,7,0,42
+Real Sociedad,Javi López,22.0,21.6,78.4,3.4,1.7,2.4,1.0,0.5,1.4,4,2,42
+Alaves,Abdel Abqar,25.0,27.4,76.6,2.9,0.6,2.7,1.0,1.5,1.7,19,1,42
+Reims,Nhoa Sangui,18.0,12.9,83.9,3.5,1.6,1.9,0.6,0.5,0.7,3,0,42
+Como,Marc-Oliver Kempf,29.0,29.1,87.2,2.9,0.6,2.2,1.2,3.7,0.7,14,4,42
+Valladolid,Javi Sánchez,27.0,22.6,87.3,1.5,0.2,2.1,1.7,1.5,0.8,12,3,42
+Fiorentina,Dodô,25.0,34.7,77.6,3.7,4.1,2.3,0.6,0.3,0.7,8,2,42
+Bayer Leverkusen,Jeremie Frimpong,23.0,25.9,76.1,2.1,3.9,1.6,1.0,0.5,0.8,7,1,41
+Leganes,Javi Hernández,26.0,26.6,75.2,3.0,1.5,1.8,0.9,0.8,1.8,6,0,41
+Empoli,Giuseppe Pezzella,26.0,32.1,66.5,2.5,2.4,2.2,1.0,1.1,1.5,10,2,41
+Torino,Cristiano Biraghi,31.0,12.9,71.5,2.8,1.9,1.9,1.2,0.6,0.7,0,0,41
+Osasuna,Jesús Areso,25.0,34.3,72.4,3.1,2.9,1.8,0.8,0.8,0.9,9,0,41
+Brentford,Keane Lewis-Potter,23.0,34.5,77.1,2.8,2.8,2.0,0.8,0.8,0.5,7,3,41
+Valencia,Cristhian Mosquera,20.0,36.9,90.5,3.3,0.9,2.5,1.0,1.1,0.4,15,4,41
+Getafe,Omar Alderete,27.0,33.1,65.5,3.4,0.8,2.5,1.1,3.1,1.0,20,1,41
+Monchengladbach,Lukas Ullrich,20.0,21.3,76.1,1.8,1.5,2.3,1.2,0.7,1.0,10,1,41
+Espanyol,Leandro Cabrera,33.0,31.9,75.2,2.2,0.3,2.2,1.1,2.4,0.8,12,2,41
+Milan,Theo Hernández,26.0,30.0,83.8,4.4,3.1,1.8,0.8,1.2,0.6,12,3,40
+Bournemouth,Adam Smith,33.0,17.8,75.7,2.8,0.8,2.2,0.7,0.8,1.1,7,1,40
+Las Palmas,Scott McKenna,27.0,27.4,86.7,1.6,0.4,1.1,1.3,3.1,0.5,13,2,40
+Arsenal,Myles Lewis-Skelly,17.0,15.3,91.2,4.6,2.4,1.9,0.3,0.7,0.7,16,0,40
+Espanyol,Brian Oliván,30.0,11.3,69.2,3.5,1.9,2.0,0.5,0.3,1.2,2,0,40
+Lecce,Federico Baschirotto,27.0,38.0,86.2,1.9,0.3,1.6,1.2,2.7,0.8,12,2,40
+Venezia,Joël Schingtienne,21.0,12.5,86.2,2.2,0.4,3.3,1.4,0.3,0.6,5,5,40
+Antwerp,Toby Alderweireld,35.0,27.0,82.6,3.3,0.2,1.4,1.4,1.8,0.6,6,4,40
+Leicester City,Conor Coady,31.0,19.1,91.1,1.7,0.2,1.4,1.7,0.7,0.4,9,2,39
+Angers,Emmanuel Biumla,19.0,14.8,88.2,1.1,0.2,1.8,1.2,1.1,0.5,5,1,39
+Lens,Deiver Machado,30.0,20.1,83.6,2.2,2.1,2.6,1.0,0.8,1.4,20,2,39
+Hellas Verona,Domagoj Bradarić,24.0,21.6,72.4,2.1,1.4,2.4,0.8,0.7,1.0,6,1,39
+Genoa,Koni De Winter,22.0,23.7,86.6,2.4,0.4,2.4,0.5,3.1,1.8,12,3,39
+Venezia,Francesco Zampano,30.0,18.3,73.2,2.2,2.3,2.0,1.1,0.5,1.3,5,2,39
+Nottingham Forest,Ola Aina,27.0,33.4,73.5,3.2,2.0,2.6,1.0,0.4,0.7,8,4,39
+Southampton,Yukinari Sugawara,24.0,17.4,80.0,4.1,1.9,2.4,1.2,0.3,0.9,10,3,39
+Freiburg,Matthias Ginter,30.0,28.5,82.6,4.0,0.4,1.7,1.2,3.4,0.5,5,5,39
+Werder Bremen,Mitchell Weiser,30.0,31.9,73.9,3.9,2.0,2.6,1.0,1.0,0.9,17,3,39
+Liverpool,Andrew Robertson,30.0,27.7,82.7,6.4,2.3,2.2,0.4,0.3,0.4,11,2,39
+Union Berlin,Josip Juranović,28.0,12.9,64.5,4.0,1.5,2.2,1.0,0.3,0.6,4,2,39
+Monza,Samuele Birindelli,25.0,16.4,75.7,2.1,2.4,2.0,0.9,0.3,1.0,2,2,39
+Empoli,Emmanuel Gyasi,30.0,35.8,77.1,1.5,0.6,1.8,0.8,1.2,1.6,5,0,39
+Tottenham Hotspur,Archie Gray,18.0,19.5,87.4,2.1,0.4,1.8,1.1,0.6,0.9,1,2,38
+Aston Villa,Ezri Konsa,26.0,32.6,92.9,2.8,0.7,1.8,0.6,1.0,0.3,1,4,38
+Getafe,Juan Berrocal,25.0,11.9,76.1,2.1,0.1,2.4,0.5,2.5,1.4,19,0,38
+Monza,Pedro Pereira,26.0,29.7,80.7,2.2,1.8,2.5,0.9,0.9,1.6,10,5,38
+Parma,Lautaro Valenti,25.0,17.3,84.5,1.6,0.2,1.7,1.5,1.4,1.4,14,1,38
+Internazionale,Matteo Darmian,34.0,19.9,83.8,2.3,0.7,1.9,0.7,0.7,1.3,6,0,38
+Torino,Valentino Lazaro,28.0,25.8,75.1,2.9,1.4,1.4,1.1,0.6,1.2,9,1,37
+Getafe,Domingos Duarte,29.0,20.7,78.5,2.3,0.1,2.2,1.4,1.4,1.2,23,1,37
+RB Leipzig,David Raum,26.0,19.9,69.4,3.6,1.8,2.4,1.3,0.7,1.2,5,4,37
+Newcastle United,Dan Burn,32.0,37.0,88.4,2.0,0.3,1.8,1.0,3.9,0.9,11,4,37
+Internazionale,Federico Dimarco,26.0,24.4,76.3,3.4,1.9,1.6,1.0,0.3,0.8,3,2,36
+Reims,Sergio Akieme,26.0,28.1,81.0,3.1,2.0,1.8,0.9,0.7,0.9,5,4,35
+Lille,Bafodé Diakité,23.0,30.7,93.2,2.9,0.5,1.9,1.0,2.0,1.4,19,5,35
+Girona,Miguel Gutiérrez,23.0,27.4,82.6,3.8,2.3,1.9,0.6,0.1,1.1,7,3,35
+Le Havre,Etienne Youte Kinkoue,22.0,25.8,89.1,2.4,0.5,1.9,1.4,1.0,0.5,15,3,35
+Como,Edoardo Goldaniga,30.0,28.1,86.4,2.9,0.7,2.4,0.7,1.9,1.6,20,3,35
+Freiburg,Christian Günter,31.0,25.8,74.5,2.0,0.7,1.2,0.9,0.3,0.5,0,1,33
+Torino,Marcus Pedersen,24.0,15.2,72.9,1.2,2.9,1.7,0.7,0.4,1.1,6,1,33
+Las Palmas,Álex Suárez,31.0,27.4,85.9,1.9,0.2,1.9,1.4,0.9,1.0,15,2,33
+Bayer Leverkusen,Álex Grimaldo,28.0,29.4,81.2,5.4,2.9,1.4,0.7,0.5,0.5,14,3,33
+Cagliari,Nadir Zortea,25.0,30.3,67.4,2.1,2.3,1.6,0.4,0.6,1.1,5,2,32
+Mallorca,Johan Mojica,31.0,30.7,74.2,4.2,2.1,2.0,0.4,0.3,0.6,11,3,32
+Athletic Club,Aitor Paredes,24.0,20.2,83.3,2.3,0.2,1.8,1.3,1.5,1.1,15,4,31
+Ipswich Town,Leif Davis,24.0,30.5,71.6,1.9,1.7,2.3,0.8,1.1,0.9,16,3,31
+Hellas Verona,Jackson Tchatchoua,22.0,35.2,74.3,2.0,2.5,1.8,0.6,0.9,0.7,15,2,31
+Getafe,Djené,32.0,28.4,75.6,2.6,0.6,1.6,0.6,1.5,1.4,15,3,30
